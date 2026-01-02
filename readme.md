@@ -714,6 +714,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+- [brief](https://github.com/WilliamAGH/brief) - Terminal-first ChatGPT/OpenAI client (TUI) with slash commands and local tool execution.
 
 ### Emoji
 
